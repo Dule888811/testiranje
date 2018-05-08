@@ -1,0 +1,360 @@
+.main {
+	margin:0 auto;
+	max-width: 970px;
+	width: 100%;
+	color:black;
+}
+.container {
+	margin: 0 auto;
+	width: 100%;
+}
+.wraper {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.hero {
+	display: flex;
+	position: relative;
+	flex-direction: column;
+}
+#row1 {
+	display: flex;
+	flex-direction:row;
+}
+ul {list-style: none;
+}
+li {
+	display: inline-block;
+}
+#row-ul {
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.header-ul2 li {
+	    transform: translateY(-16px);
+}
+.header-img {
+	float:right;
+}
+.input-header {
+	margin-left: 25%;
+    transform: translateY(5px);
+}
+#img {
+	margin-left: 25%;
+    transform: translateY(5px);
+}
+.dropdown-img {
+	position: absolute;
+    top: 22%;
+    left: 65%;
+}
+#phone {
+	transform: translateY(4px);
+    margin-right: 1px;
+}
+.content-slider {
+	width:100%;
+	background: url(img/slider1-header.jpg) no-repeat;
+    background-size: cover;
+	min-height: 358px;
+}
+.swiper-container {
+	width: 100%;
+	/*--height: 400px; */
+}
+.swiper-pagination  {
+	bottom: 96px;
+	left: 197px;
+}
+.text-li p {
+	font-size:8px;
+}
+.text-li h2 {
+	font-size:12px;
+}
+.picture-ul ul {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px;
+    width: 100%;
+}
+.content-li p,a,h2{	
+color:black;
+}
+.learn {
+	font-size:12px;
+}
+.img-li img {
+	    transform: translateX(30px);
+}
+.left-header-text {
+	text-align: start;
+	padding-left:27px;
+}
+}
+.star-text {
+	    margin-top: 95%;
+}
+.star-text h2 {
+	font-size: 10px;
+}
+.li-star {
+	background: url(img/prodact-image.jpg) no-repeat;
+    background-size: cover;
+    min-height: 300px;
+	border: 1px solid #d9d9d9;
+	min-width: 180px;
+}
+.star-down {
+	    padding-top: 16%;
+}
+.srce {
+	padding-left: 15%;
+    transform: translateY(5px);
+}
+.korpa {
+	transform: translateY(4px);
+}
+.flex-picture {
+	    flex-grow: 1;
+}
+.flex {
+	display:flex;
+}
+#id-picture1 {
+	background: url(img/zurka.jpg) no-repeat;
+    background-size: cover;
+	min-height: 300px;
+}
+#id-picture2 {
+	background: url(img/trcanje.jpg) no-repeat center center;
+    background-size: cover;
+	min-height: 300px;
+}
+#id-picture3 {
+	background: url(img/zeleznicka-stanica.jpg) no-repeat;
+    background-size: cover;
+	min-height: 300px;
+}
+.links {
+	display: flex;
+    justify-content: space-between;
+}
+.divspan {
+	    margin-top: 3%;
+		display: flex;
+}
+.ss {
+	padding: 10px;
+}
+.divul {
+	margin-top: 4px;
+}
+footer .interior a {
+    font-size: 13px;
+    font-family: Verdana;
+    color: #666;
+    text-decoration: none;
+}
+
+footer .interior li {
+	display:block;
+}
+
+footer {
+    background-color: #F0F0F0;
+    height: 200px;
+}
+footer .footer_menu {
+    	float:left;
+	width: 25%;
+}
+footer .interior .a{
+        padding: 0;
+}
+#Lfooter{
+transform: translateY(-20px);
+}
+.move {
+	transform: translateX(20px);
+}
+.footer-bottom {
+	background-color:black;
+}
+.text-bootom {
+	    margin-top: 120px;
+}
+.swiper-button-prev {
+	left:33%;
+}
+.swiper-button-next {
+	right:33%;
+}
+.margin {
+	margin-left:-20px;
+}
+#content-id {
+	margin-left: 61px;
+}
+#id-content {
+	margin-right:61px;
+}
+.star-down p {
+	font-size:12px;
+}
+.new {
+	padding-top: 76px;
+}
+.star-text {
+	transform: translateY(148px);
+}
+.2b {
+	top: auto;
+    bottom: -492px;
+}
+.3b {
+	left: 39%;
+    top: 180%;
+}
+.footer-bottom p,h4{
+	color:white;
+}
+.footer-bottom h4 {
+	position: absolute;
+    top: 5%;
+    left: 5%;
+    color: white;
+}
+.footer-bottom {
+	position:relative;
+}
+.carts ul {
+	position: absolute;
+    top: 5%;
+    right: 5%;
+}
+.footer-bottom p {
+position: absolute;
+    top: 11%;
+    left: 38%;
+}
+#black {
+	position: relative;
+    left: 41%;
+}
+.fl {
+	margin-left: -7%;
+}
+.fl li {
+	font-size:15px;
+	margin-right: 40px;
+}
+.header-ul2 {
+	padding-right: 40px;
+}
+.banka {
+	margin-right: 60px;
+}
+#balkan {
+	transform: translateY(4px);
+}
+.text-slider h2,h1,p {
+	color:white;
+}
+#dugme {
+	border-radius: 5px;
+    cursor: pointer;
+    background: #99ffff;
+	color: white;
+}
+#Lfooter a,p,h2,h4 {
+	color:black;
+} 
+.soc-net {
+	    padding-right: 30px;
+}
+.divspan {
+	padding-left: 30px;
+}
+.imgheading {
+	text-align: end;
+    margin-top: 40%;
+	margin-right: 5%
+}
+.imgheading h2,p {
+	color:white;
+}
+
+.naslovi  {
+   margin-top: 58%;;
+	float:left;
+	margin-left: 10%;
+}
+.h p {
+	float:right;
+	margin-top: 76%;
+}
+.naslovi h4 {
+	color:#a6a6a6;
+}
+.footer_menu h1,h2,h3,h4,p {
+	color:black;
+}
+#Lfooter {
+	transform: translateY(-18%);
+}
+#Lfooter h4{
+	transform: translateX(36px);
+}
+#lphone {
+	    padding-right: 10px;
+}
+.banka:before {
+    content: 'Hello Sing in';
+    position: absolute;
+    bottom: 20px;
+    color:#d9d9d9;
+    padding-top: 1px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+}
+.el:before {
+    content: 'Items';
+    position: absolute;
+    bottom: 20px;
+    color:#d9d9d9;
+    padding-top: 1px;
+    left: 6px;
+    right: 0px;
+    margin: 0 auto;
+}
+#id-picture1 h1,h2,h3,h4,p {
+	color:white;
+}
+#id-picture3 h1,h2,h3,h4,p {
+	color:white;
+}
+#hej {
+	color:black;
+}
+#haj {
+	color: #b3ffe0;
+}
+.move {
+	color:black;
+}
+.lastphoto {
+	transform:translateY(10px);
+}
+.a {
+	
+	float: left;
+    width: 25%;
+    padding: 0;
+}
+
